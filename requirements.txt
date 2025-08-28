@@ -1,0 +1,6 @@
+psutil
+nmap
+speedtest-cli
+reportlab
+requests
+matplotlib
